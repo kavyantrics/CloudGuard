@@ -1,4 +1,4 @@
-# TCAT-AI
+# CloudGuard
 
 An intelligent cloud cost management tool that leverages AI to analyze AWS infrastructure, optimize costs, and provide actionable recommendations.
 
